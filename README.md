@@ -23,3 +23,10 @@ Esta es una aplicación web que permite a los usuarios crear una lista de tareas
 1. Forked repository
 2. Clona este repositorio:  
    git clone 'path'
+3. Abre el archivo index.html en el navegador.
+4. Comienza a agregar tareas y explora sus funcionalidades.
+
+## Mejoras recomendadas
+	•	Agregar animaciones CSS al completar o eliminar tareas.
+	•	Permitir la edición en línea de las tareas sin necesidad de un botón extra.
+	•	Sincronizar las tareas con una API o base de datos.
